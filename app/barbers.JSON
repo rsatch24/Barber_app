@@ -1,0 +1,29 @@
+{
+"barbers": [{
+"title": "Germaine The Clark Barbershop", 
+"Rating": "4.5 Stars", 
+"Address": "291 South Pickett Street, Alexandria V.A. 22304",
+"Phone": "(571)-745-8904", 
+"Time": "12-5pm", 
+"image": "Germaine_Barberpic.png"
+}, 
+{
+"title": "Jim's Barbershop", 
+"Rating": "4 Stars", 
+"Address": "894 South Van Dorn Street, Alexandria V.A. 22304",
+"Phone": "(571)-455-8035", 
+"Time": "1-6pm", 
+"image": "JimBarber_pic.png"
+}, 
+{
+"title": "Horace's Lace Therapy", 
+"Rating": "5 Stars", 
+"Address": "809 King Street, Alexandria V.A. 22945",
+"Phone": "(980)-234-9403", 
+"Time": "2-6pm", 
+"image": "Horace_Barberpic.png"
+}
+]
+}
+
+
